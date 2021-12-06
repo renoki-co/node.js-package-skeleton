@@ -36,7 +36,7 @@
     "@babel/plugin-transform-object-assign": "^7.16.0",
     "@babel/preset-env": "^7.16.0",
     "@types/jest": "^26.0.19",
-    "@types/node": "^16.11.6",
+    "@types/node": "^16.11.11",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.31.1",
     "eslint": "^7.5.0",
